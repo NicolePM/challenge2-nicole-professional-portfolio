@@ -14,7 +14,7 @@ A website that showcases my web design work for future employers.
 * CSS
 
 ## Website
-To be added
+https://nicolepm.github.io/challenge2-professional-portfolio/
 
 ## Contribution
 Created by Nicole Mitchell
